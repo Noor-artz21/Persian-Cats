@@ -1,0 +1,24 @@
+img {
+    height: 400;
+    border-radius: 300px;
+    border:20px solid lightpink;
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210115/pngtree-pink-cute-cat-paw-background-image_530116.jpg");
+    background-size: cover;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.content {
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    padding: 10px;
+}
